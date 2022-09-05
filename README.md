@@ -1,4 +1,4 @@
 - Hi, I’m Syed Mohammad Aun
 - Front-End WordPress & Webflow Developer
-- Skills (PHP/MYSQL/HTML/CSS)
-- sma_studios1215 on Instagram
+- Skills (WordPress/Shopify/Weebly/Wix/PHP/MYSQL/HTML/CSS)
+- Portfolio behance.net/mohammadaun1215
